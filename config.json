@@ -1,0 +1,15 @@
+{
+	"ProtectionTime": 48,
+	"DBPrefix": "Ragnarok",
+	"DBFilePath": "C:/Users/AdrianGaming/Desktop/Ark_Server/steam/servers/ShooterGame/Binaries/Win64/ArkApi/Plugins/AutoProt",
+	"MessageDelay": 3,
+	"Messages": {
+		"prefix": "AutoProt",
+		"DamageMessage": "This structures has still %hours% hours and %minutes% minutes protection left!",
+		"ProtectionStarted": "Your structures are protected for %time% minutes",
+		"ProctectionLost": "Your protection time is over. Players may now destroy your structures",
+		"ProtectionTimeChanged": "Your protection time has been set to %time%",
+		"CurrentProtectionTime": "Your protection lasts another %hours% hours and %minutes% minutes",
+		"ProtectionRemoved": "Your protection has been removed!"
+	}
+}
